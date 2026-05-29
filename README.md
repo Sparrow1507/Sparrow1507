@@ -2,9 +2,9 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akash%20L&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Software%20Developer%20%7C%20AI%20%26%20Data%20Science%20Enthusiast&descAlignY=62&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=M.Tech+Data+Science+%7C+PTU;Building+Intelligent+Real-World+Systems;Computer+Vision+%7C+AI+%7C+Web+Dev;Open+to+Collaborate+%26+Innovate+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=M.Tech+Data+Science+%7C+PTU;Building+Intelligent+Real-World+Systems;Computer+Vision+%7C+AI+%7C+Web+Dev;Open+to+Collaborate+%26+Innovate+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=akashl1507&color=70a5fd&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Sparrow1507&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -12,14 +12,16 @@
 
 ## <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="28"/> About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```python
 class AkashL:
     name        = "Akash L"
     location    = "Puducherry, India 🇮🇳"
-    degree      = "M.Tech – Data Science @ PTU (CGPA: 8.84)"
-    prev_degree = "B.Tech – CSE @ RGCET, Pondicherry Univ (CGPA: 8.2)"
+    degree      = "M.Tech – Data Science @ PTU"
+    cgpa        = 8.84
 
     stack = [
         "Python", "Java", "C",
@@ -31,17 +33,23 @@ class AkashL:
         "Spatiotemporal Video Analytics",
         "BoT-SORT Object Tracking",
         "Edge AI Deployment",
-        "Next-Gen Databases (MongoDB, Cassandra)"
+        "Next-Gen Databases"
     ]
 
-    fun_fact = "I built a real-time theft detection system that alerts"
-               " you on Telegram AND reads alerts aloud 🔊"
+    fun_fact = "Built a theft detection system"
+               " that alerts on Telegram 🔊"
 
     def motto(self):
-        return "Build systems that make the world smarter & safer 🧠"
+        return "Build systems that make the"
+               " world smarter & safer 🧠"
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" width="40%">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -161,9 +169,9 @@ class AkashL:
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| 🔍 [**AI Theft Detection System**](https://github.com/akashl1507) | `Python` `YOLOv8` `OpenCV` `Telegram API` `PowerShell TTS` | Real-time theft detection at 30 FPS on edge hardware · Zero-human-in-the-loop pipeline · Instant Telegram snapshot alerts + on-device TTS audio alerts · High accuracy, precision & F1-score |
-| 🏫 [**V-Campus Experience**](https://github.com/akashl1507) | `Virtual Reality` `3D Environment Design` | Immersive VR campus tour application · Enhances accessibility for prospective students · Final year B.Tech capstone project |
-| 🌐 [**Portfolio Website**](https://akashl-portfolio.netlify.app) | `HTML` `CSS` `JavaScript` `Netlify` | Fully responsive personal portfolio · Live at akashl-portfolio.netlify.app · Custom design & deployment |
+| 🔍 [**AI Theft Detection System**](https://github.com/Sparrow1507) | `Python` `YOLOv8` `OpenCV` `Telegram API` `PowerShell TTS` | Real-time detection at 30 FPS · Zero-human-in-the-loop pipeline · Telegram snapshot alerts + on-device TTS · High accuracy & F1-score |
+| 🏫 [**V-Campus Experience**](https://github.com/Sparrow1507) | `Virtual Reality` `3D Environment Design` | Immersive VR campus tour · Enhances accessibility for prospective students · Final year B.Tech capstone |
+| 🌐 [**Portfolio Website**](https://akashl-portfolio.netlify.app) | `HTML` `CSS` `JavaScript` `Netlify` | Fully responsive personal portfolio · Live at akashl-portfolio.netlify.app |
 
 </div>
 
@@ -176,12 +184,12 @@ class AkashL:
 | 🏆 | Achievement | Details |
 |:--:|:------------|:--------|
 | 👑 | **Coding Club President** | Led technical events, hackathons & workshops for **3 consecutive years** (2022–2025) |
-| 🎯 | **Student Placement Coordinator** | Coordinated campus placements, conducted mock interviews & resume reviews (2024–2025) |
+| 🎯 | **Student Placement Coordinator** | Coordinated campus placements, mock interviews & resume reviews (2024–2025) |
 | 🎓 | **M.Tech Academic Excellence** | Maintaining **CGPA 8.84** in Data Science at PTU |
 | 🎓 | **B.Tech Academic Performance** | Graduated with **CGPA 8.2** in Computer Science Engineering |
-| 🌍 | **Multilingual** | Fluent in **Tamil** (Native), **English** (Fluent), **French** (Intermediate) |
-| 🤝 | **NSS Volunteer** | Community service drives including beach & temple clean-up events (2020–2023) |
-| 🏛️ | **Multi-College Symposium Organizer** | Organized and managed a large-scale inter-college tech symposium as Club President |
+| 🌍 | **Multilingual** | **Tamil** (Native) · **English** (Fluent) · **French** (Intermediate) |
+| 🤝 | **NSS Volunteer** | Community service drives — beach & temple clean-up events (2020–2023) |
+| 🏛️ | **Multi-College Symposium Organizer** | Organized inter-college tech symposium as Coding Club President |
 
 </div>
 
